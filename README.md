@@ -2,10 +2,10 @@
   <div>
     <img width="80" src="https://raw.githubusercontent.com/itischrisd/itis-PJATK/main/logo.svg" alt="" />
   </div>
-  TPO (Distributed programming technologies)
+  TPO (Distributed Programming Technologies)
 </h1>
 
-Repository that contains solutions to the exercises for the TPO (Distributed programming technologies) practical classes, taught by Tomasz Werner during studies on [PJAIT](https://www.pja.edu.pl/en/).
+Repository that contains solutions to the exercises for the TPO (Distributed Programming Technologies) practical classes, taught by Tomasz Werner during studies on [PJAIT](https://www.pja.edu.pl/en/).
 
 The following code is distributed under the [GPLv3](./LICENSE).
 
